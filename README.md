@@ -52,8 +52,8 @@ python2 dmbf.py
 _Tekan CTRL + Z_
 
 ### Akun Sosial
-* [**Facebook**](fb.me/llovexnxx)
-* [**Whatsapp**](wa.me/6283143565470)
+* [**Facebook**](https://fb.me/llovexnxx)
+* [**Whatsapp**](https://wa.me/6283143565470)
 
 ### Donasi Ngab
 * DANA : ```083143565470```
